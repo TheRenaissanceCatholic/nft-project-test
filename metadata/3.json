@@ -1,0 +1,20 @@
+{
+  "name": "NFT Land #3",
+  "description": "A unique piece of NFT Land on Base Sepolia",
+  "animation_url": "ipfs://YOUR_VIDEO_CID_3/3.mp4",
+  "content_type": "video/mp4",
+  "attributes": [
+    {
+      "trait_type": "Land Type",
+      "value": "Forest"
+    },
+    {
+      "trait_type": "Rarity",
+      "value": "Epic"
+    },
+    {
+      "trait_type": "Duration",
+      "value": "20 seconds"
+    }
+  ]
+} 

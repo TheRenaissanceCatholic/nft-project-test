@@ -1,0 +1,24 @@
+{
+  "name": "Rose NFT #4",
+  "description": "A unique rose variation with Pink petals, Normal saturation, and Normal brightness",
+  "animation_url": "ipfs://YOUR_VIDEO_CID_4/rose_4.mp4",
+  "content_type": "video/mp4",
+  "attributes": [
+    {
+      "trait_type": "Color",
+      "value": "Pink"
+    },
+    {
+      "trait_type": "Saturation",
+      "value": "Normal"
+    },
+    {
+      "trait_type": "Brightness",
+      "value": "Normal"
+    },
+    {
+      "trait_type": "Duration",
+      "value": "20 seconds"
+    }
+  ]
+}

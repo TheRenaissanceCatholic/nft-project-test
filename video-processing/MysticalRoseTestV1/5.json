@@ -1,0 +1,24 @@
+{
+  "name": "Rose NFT #5",
+  "description": "A unique rose variation with Orange petals, Low saturation, and Normal brightness",
+  "animation_url": "ipfs://YOUR_VIDEO_CID_5/rose_5.mp4",
+  "content_type": "video/mp4",
+  "attributes": [
+    {
+      "trait_type": "Color",
+      "value": "Orange"
+    },
+    {
+      "trait_type": "Saturation",
+      "value": "Low"
+    },
+    {
+      "trait_type": "Brightness",
+      "value": "Normal"
+    },
+    {
+      "trait_type": "Duration",
+      "value": "20 seconds"
+    }
+  ]
+}
