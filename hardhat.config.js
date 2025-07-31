@@ -7,8 +7,8 @@ module.exports = {
     baseSepolia: {
       // Your Alchemy Base Sepolia RPC URL
       url: "https://base-sepolia.g.alchemy.com/v2/2kJcVipgpw3tdv6LvlpGk4cNm7w9yWVf",
-      // Your wallet's private key (keep this secret!)
-      accounts: ["6d2c7fb4cbc8b408f673f590f78b339a3f58d32232bbd048371cdde139b8f505"]
+      // Your wallet's private key (use environment variable for security)
+      accounts: process.env.PRIVATE_KEY ? [process.env.PRIVATE_KEY] : []
     }
   },
   etherscan: {
